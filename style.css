@@ -135,3 +135,22 @@ margin-top: 74px;
           display: none;
     }
 }
+
+@media only screen and (max-width:400px){
+    .songsItem{
+        height: 100px;
+        width:auto;
+        
+      }
+    
+    nav ul{
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        
+     }
+    .container{
+        width:100%;
+        padding:20px;
+    }
+}
