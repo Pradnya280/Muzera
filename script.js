@@ -8,14 +8,14 @@ let gif1 = document.getElementById('gif1');
 let masterSongName = document.getElementById('masterSongName');
 let songsItem = Array.from(document.getElementsByClassName('songsItem'));
 let songs = [
-    {songName: "Fearless", filePath:"song/1.mp3", coverPath:"covers/1.jpg"},
-    {songName: "Lovely", filePath:"song/2.mp3", coverPath:"covers/2.jpg"},
-    {songName: "Never Say Never", filePath:"song/3.mp3", coverPath:"covers/3.jpg"},
-    {songName: "Who Says", filePath:"song/4.mp3", coverPath:"covers/4.jpg"},
-    {songName: "Blank Space", filePath:"song/5.mp3", coverPath:"covers/1.jpg"},
-    {songName: "Aal Izz well", filePath:"song/6.mp3", coverPath:"covers/6.jpg"},
-    {songName: "Zindagi do pal ki", filePath:"song/7.mp3", coverPath:"covers/7.jpg"},
-    {songName: "Phir le aaya", filePath:"song/8.mp3", coverPath:"covers/8.jpg"},
+    {songName: "Fearless", filePath:"1.mp3", coverPath:"1.jpg"},
+    {songName: "Lovely", filePath:"2.mp3", coverPath:"2.jpg"},
+    {songName: "Never Say Never", filePath:"3.mp3", coverPath:"3.jpg"},
+    {songName: "Who Says", filePath:"4.mp3", coverPath:"4.jpg"},
+    {songName: "Blank Space", filePath:"5.mp3", coverPath:"1.jpg"},
+    {songName: "Aal Izz well", filePath:"6.mp3", coverPath:"6.jpg"},
+    {songName: "Zindagi do pal ki", filePath:"7.mp3", coverPath:"7.jpg"},
+    {songName: "Phir le aaya", filePath:"8.mp3", coverPath:"8.jpg"},
    
 ]
 songsItem.forEach((element,i)=>{
