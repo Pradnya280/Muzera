@@ -10,11 +10,11 @@ let songsItem = Array.from(document.getElementsByClassName('songsItem'));
 let songs = [
     {songName: "Fearless", filePath:"1.mp3", coverPath:"1.jpg"},
     {songName: "Lovely", filePath:"2.mp3", coverPath:"2.jpg"},
-    {songName: "Never Say Never", filePath:"3.mp3", coverPath:"3.jpg"},
+    {songName: "Never Say", filePath:"3.mp3", coverPath:"3.jpg"},
     {songName: "Who Says", filePath:"4.mp3", coverPath:"4.jpg"},
     {songName: "Blank Space", filePath:"5.mp3", coverPath:"1.jpg"},
     {songName: "Aal Izz well", filePath:"6.mp3", coverPath:"6.jpg"},
-    {songName: "Zindagi do pal ki", filePath:"7.mp3", coverPath:"7.jpg"},
+    {songName: "Zindagi do pal", filePath:"7.mp3", coverPath:"7.jpg"},
     {songName: "Phir le aaya", filePath:"8.mp3", coverPath:"8.jpg"},
    
 ]
